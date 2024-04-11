@@ -1,0 +1,68 @@
+{
+    "name": "ExceleratorBI.com.au",
+    "dataColors": [
+        "#F2C811"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "*": [
+                    {
+                        "fontSize": 15
+                    }
+                ]
+            }
+        },
+        "slicer": {
+            "*": {
+                "*": [
+                    {
+                        "textSize": 15
+                    }
+                ]
+            }
+        },
+        "tableEx": {
+            "*": {
+                "total": [
+                    {
+                        "fontSize": 15
+                    }
+                ]
+            }
+        },
+        "pivotTable": {
+            "*": {
+                "subTotals": [
+                    {
+                        "fontSize": 15
+                    }
+                ],
+                "total": [
+                    {
+                        "fontSize": 15
+                    }
+                ],
+                "rowHeaders": [
+                    {
+                        "showExpandCollapseButtons": true
+                    }
+                ]
+            }
+        }
+    },
+    "icons": {
+        "greenCircle": {
+            "url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%2384C28A' stroke='black' stroke-width='4'/></svg>"
+        },
+        "redCircle": {
+            "url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23F25021' stroke='black' stroke-width='4'/></svg>"
+        },
+        "yellowCircle": {
+            "url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23F2C811' stroke='black' stroke-width='4'/></svg>"
+        },
+"grayStripeCircle": {
+    "url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><pattern id='stripes' patternUnits='userSpaceOnUse' width='10' height='10'><rect x='0' y='0' width='10' height='10' fill='%23333333'/><path d='M 0,10 l 10,-10 M -2.5,2.5 l 5,-5 M 7.5,12.5 l 5,-5' stroke='white' stroke-width='5'/></pattern></defs><circle cx='50' cy='50' r='48' fill='url(%23stripes)' stroke='black' stroke-width='4'/></svg>"
+}
+    }
+}
